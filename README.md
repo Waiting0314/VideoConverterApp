@@ -35,7 +35,7 @@
 1. 下載專案程式碼：
    ```bash
    git clone https://github.com/Waiting0314/VideoConverterApp.git
-   cd <你的專案>
+   cd VideoConverterApp
    ```
 2. 執行程式：
    ```bash
