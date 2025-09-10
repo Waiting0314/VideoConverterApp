@@ -34,12 +34,12 @@
 ## 🚀 使用方式
 1. 下載專案程式碼：
    ```bash
-   git clone https://github.com/<你的帳號>/<你的專案>.git
+   git clone https://github.com/Waiting0314/VideoConverterApp.git
    cd <你的專案>
    ```
 2. 執行程式：
    ```bash
-   python converter.py
+   python VideoConverterApp.py
    ```
 3. 介面操作：
    - 點擊 **選擇資料夾** → 選擇包含影片的資料夾  
